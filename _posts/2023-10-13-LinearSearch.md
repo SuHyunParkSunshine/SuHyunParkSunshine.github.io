@@ -97,11 +97,12 @@ author_profile: false
 
         - a. 체인법(오픈해시법) : 같은 해시값의 데이터를 선형 리스트로 연결하는 방법
 
-            - <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbwZ8UC%2FbtqUBvdjrtw%2FdrQoHQj6ufKwtFZXTK6CJ0%2Fimg.png">
+            ![image](https://github.com/SuHyunParkSunshine/MEME_BACKEND_PROJECT/assets/129818936/b8fd5118-81d0-4ab8-b2da-3e0c2084e718)
+
 
         - b. 오픈주소법 : 데이터를 위한 해시값이 충돌할 때 재해시 하는 방법
 
-          - <img src="https://velog.velcdn.com/images/dnrwhddk1/post/e1515905-f9e2-4751-bc37-8f090a85ee75/image.png">
+          ![image](https://github.com/SuHyunParkSunshine/MEME_BACKEND_PROJECT/assets/129818936/c6254a6e-12a0-4c0c-b0af-c73c5e9dfbee)
 
   
 
