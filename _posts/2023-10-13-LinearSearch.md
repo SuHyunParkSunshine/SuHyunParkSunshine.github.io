@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "jupyter notebook 변환하기!"
+title:  "[자료구조스터디] 검색알고리즘-선형검색, 이진검색, 해시법법!"
 categories: coding
 tag: [python, blog, jekyll]
 toc: true
