@@ -95,8 +95,14 @@ author_profile: false
 
     3) 해시법 : 추가, 삭제가 자주 일어나는 데이터 모임에서 아주 빠른 검색 수행
         - 체인법(오픈해시법) : 같은 해시값의 데이터를 선형 리스트로 연결하는 방법
-            ![image](https://github.com/SuHyunParkSunshine/MEME_BACKEND_PROJECT/assets/129818936/b8fd5118-81d0-4ab8-b2da-3e0c2084e718)
+      
+          
+          ![image](https://github.com/SuHyunParkSunshine/MEME_BACKEND_PROJECT/assets/129818936/b8fd5118-81d0-4ab8-b2da-3e0c2084e718)
+  
+   
         - 오픈주소법 : 데이터를 위한 해시값이 충돌할 때 재해시 하는 방법
+      
+          
           ![image](https://github.com/SuHyunParkSunshine/MEME_BACKEND_PROJECT/assets/129818936/c6254a6e-12a0-4c0c-b0af-c73c5e9dfbee)
 
   
