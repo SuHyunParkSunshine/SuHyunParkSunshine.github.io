@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "jupyter notebook 변환하기!"
+title:  "[자료구조스터디] 스택 & 큐(Stack & Queue)"
 categories: coding
 tag: [python, blog, jekyll]
 toc: true
